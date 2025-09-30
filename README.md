@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan David  
 
-<!--
-**Juanda2004-max/Juanda2004-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de software en formación**  
+Soy un apasionado por la tecnología y el aprendizaje continuo. Actualmente me encuentro fortaleciendo mis conocimientos en **.NET, SQL Server y React**, además de trabajar en proyectos académicos y personales que me permiten crecer como programador.  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🎓 Estudiante en constante aprendizaje de nuevas tecnologías  
+- 🛠 Experiencia en el desarrollo de sistemas con **.NET** y aplicaciones de escritorio en **Visual Studio**  
+- 💾 Manejo de bases de datos relacionales con **SQL Server**  
+- 🌱 Interesado en buenas prácticas de programación, diseño de interfaces y desarrollo ágil  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y herramientas
+- Lenguajes: `C#`, `JavaScript`
+- Frameworks y librerías: `.NET`, `React`
+- Bases de datos: `SQL Server`
+- Herramientas: `Git`, `Visual Studio`, `VS Code`
+
+## 🎯 Objetivos
+- Seguir aprendiendo y adquiriendo experiencia práctica en desarrollo de software  
+- Contribuir a proyectos que generen impacto y me permitan crecer profesionalmente  
+- Colaborar con otros desarrolladores y aprender de la comunidad  
+
+📫 **Contáctame:**  
+[LinkedIn](https://www.linkedin.com/in/juan-david-ospina-hernandez-083a0824a/) | [Correo](juan.ospina933@pascualbravo.edu.co)  
+
+---
