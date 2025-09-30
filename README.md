@@ -21,6 +21,6 @@ Soy un apasionado por la tecnología y el aprendizaje continuo. Actualmente me e
 - Colaborar con otros desarrolladores y aprender de la comunidad  
 
 📫 **Contáctame:**  
-[LinkedIn](https://www.linkedin.com/in/juan-david-ospina-hernandez-083a0824a/) | [Correo](juan.ospina933@pascualbravo.edu.co)  
+[LinkedIn](https://www.linkedin.com/in/juan-david-ospina-hernandez-083a0824a/) | [Correo](mailto:juan.ospina933@pascualbravo.edu.co)  
 
 ---
